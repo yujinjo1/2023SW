@@ -7,11 +7,4 @@
     tools:context=".ui.home.HomeFragment">
 
 
-    <CalendarView
-        android:id="@+id/calendarView"
-        android:layout_width="363dp"
-        android:layout_height="541dp"
-        android:clickable="true"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="120dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
